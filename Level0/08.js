@@ -1,3 +1,4 @@
+//아이스 아메리카노
 function solution(money) {
     var answer = [];
     let coffee = 0;
